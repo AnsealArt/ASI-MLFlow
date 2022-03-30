@@ -1,12 +1,17 @@
 # ASI-MLFlow
 
 ##### Project description
-Sample MLFlow Pipeline for ASI course on PJAIT
+Sample MLFlow Pipeline for ASI course on PJAIT. For this project given libraries have been used:
+- ```MLFlow```
+- ```PyCaret```
 
-### Instruction
+<br />
+
 ##### Software requirements:
  - ```Python 3.6+```
  - ```Anaconda```
+
+<br /> 
 
 ##### How create environment?
 ###### Option 1: manual approach
