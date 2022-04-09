@@ -17,8 +17,13 @@ Sample MLFlow Pipeline for ASI course on PJAIT. For this project given libraries
 ###### Option 1: manual approach
 ```conda create --name mlops-cf```          <br />
 ```conda activate mlops-cf```               <br />
+```conda install -c anaconda jupyter```     <br />
 ```conda install -c conda-forge mlflow```   <br />
 ```conda install -c conda-forge pycaret```  <br />
 
 ###### Option 2: through conda.yml
 ```conda env create -f conda.yml```
+
+
+
+##### How to run a project?
